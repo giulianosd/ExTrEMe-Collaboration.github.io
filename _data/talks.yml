@@ -22,6 +22,13 @@
 #   video:     (optional) Recording.
 #   coauthors: (optional) List of co-authors as "F. M. Lastname".
 
+- date: 2026-06
+  speaker: Giuliano Dias
+  type: Talk
+  title: "Machine Learning em simulações de colisões de ions pesados"
+  event: XXXIII Reunião de Trabalho sobre Interações Hadrônicas (RETINHA 33)
+  location: CBPF, Rio de Janeiro, Brazil
+
 - date: "2026-09"
   speaker: Matthew Luzum
   type: Talk
